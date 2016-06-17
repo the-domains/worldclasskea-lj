@@ -1,0 +1,28 @@
+name: WorldClassKEA-LJ
+favicon: null
+layout_spectrum: 0.12796134245581925
+typography_spectrum: 0.28966928785666823
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5616133755538613
+  lightness: 0.7228452113922685
+  saturation: 0.9480779748409986
+  rhythmicContrast: 0.9792285645380616
+purpose: []
